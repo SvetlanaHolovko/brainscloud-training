@@ -4,7 +4,11 @@
 
 ## Технологии
 
+### MOGO
+
 - HTML
 - CSS
-- Flex-box
+- JQuery
+- Slick slider
+- Flexbox
 - BEM-naming
