@@ -4,7 +4,7 @@
 
 ## Технологии
 
-### MOGO
+### MOGO and BoxActive
 
 - HTML
 - CSS
