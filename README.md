@@ -9,6 +9,7 @@
 - HTML
 - CSS
 - JQuery
-- Slick slider
+- Slick Slider
 - Flexbox
-- BEM-naming
+- BEM-Naming
+- SVG-Sprite
